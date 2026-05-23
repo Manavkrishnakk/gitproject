@@ -1,2 +1,6 @@
 hai this is manav,i am coming from kerala..
+<<<<<<< HEAD
 now i am interested in web development and git..
+=======
+hello manav..
+>>>>>>> feature
